@@ -1,0 +1,2 @@
+minor_changes:
+  - sonic_ip_neighbor - change IP_NEIGHBOR module replaced state design (https://github.com/ansible-collections/dellemc.enterprise_sonic/pull/253).
